@@ -6,7 +6,7 @@ import threading
 from discord.ext import commands
 import os
 import random
-token = "MTA0ODEyODI1ODk0MTY2NTM3MQ.GVQz0j.SyKfqBXhN2f0CxBuRkcDdWIB39VSmXII9ByzjI"
+token = "MTA0ODEyODI1ODk0MTY2NTM3MQ.GlX5Zb.zow7O8x5YBQxDBKFV0-3xQ2eTvQaDu_7SYgr_I"
 BotChannelId = 1048128915241185290
 ProxyBotChannelId = 1048128965824495696
 client = commands.Bot(command_prefix='xd!',intents=discord.Intents.all()) 
